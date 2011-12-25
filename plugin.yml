@@ -1,0 +1,5 @@
+name: MCLive
+description: Bukkit plugin for MCLive
+version: 0.0.1-SNAPSHOT
+main: com.dirtyalpaca.mclive.plugin.MCLive
+database: false

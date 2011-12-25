@@ -1,0 +1,27 @@
+GIT
+  remote: https://github.com/CraftHub/Rcon.git
+  revision: 7a9a359f7efea1087f415c9f5652f527e7cf9ce7
+  specs:
+    rcon (0.2.2)
+      ip (>= 0.2.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    diff-lcs (1.1.3)
+    ip (0.2.2)
+    rspec (2.7.0)
+      rspec-core (~> 2.7.0)
+      rspec-expectations (~> 2.7.0)
+      rspec-mocks (~> 2.7.0)
+    rspec-core (2.7.1)
+    rspec-expectations (2.7.0)
+      diff-lcs (~> 1.1.2)
+    rspec-mocks (2.7.0)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  rcon!
+  rspec
